@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+.area-pesquisa{
+    
+    height: 5vh;
+    align-items: baseline;
+    justify-content: center;
+    display: flex;
+    
+}
+.input-Cartas{
+    background-color: black;
+    color: white;
+    outline:none;
+    align-items: center;
+}
+.card {
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.card h2 {
+    margin: 0 0 10px;
+}
+.card p {
+    margin: 5px 0;
+}
